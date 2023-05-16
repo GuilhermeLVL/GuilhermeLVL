@@ -24,7 +24,9 @@
 <div style="display: inline_block"><br>
 <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/> 
 <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+<img align="center" alt="" height="30" width="40" src="https://avatars.githubusercontent.com/u/70142?s=200&v=4"/>
   
  </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0a0a23&height=120&section=footer"/>
+
