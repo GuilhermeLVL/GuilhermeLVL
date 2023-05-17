@@ -19,10 +19,8 @@
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="" height="30" width="50" src="https://logos-marques.com/wp-content/uploads/2021/03/GitHub-Embleme.png">
-  
-  
-  
-  
+  <img align="center" alt="" height="30" width="50" src="https://th.bing.com/th/id/OIP.Xa0BEkwl0Zx4qnY9lMbD7gHaHa?pid=ImgDet&rs=1">
+ 
   </div>
 
 # Studying in this moment:
