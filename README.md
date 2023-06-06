@@ -30,7 +30,7 @@
 <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/> 
 <img align="center" alt="" height="30" width="40" src="https://avatars.githubusercontent.com/u/70142?s=200&v=4"/>
  <img align="center" alt="" height="30" width="40" src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg"/>
-  <img align="center" alt="" height="30" width="40" src="https://apliint.com/wp-content/uploads/2020/12/267_Python_logo-512-400x400.png"/>
+  <img align="center" alt="" height="30" width="30" src="https://apliint.com/wp-content/uploads/2020/12/267_Python_logo-512-400x400.png"/>
   
  </div>
 
