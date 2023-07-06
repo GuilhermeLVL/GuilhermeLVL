@@ -5,7 +5,7 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuilhermeLVL&show_icons=true&count_private=true&hide_border=true&title_color=47FDC1&icon_color=47FDC1&text_color=c9d1d9&bg_color=0d1117" alt="Guilherme Pinheiro github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuilhermeLVL&show_icons=true&count_private=true&hide_border=true&title_color=47FDC1&icon_color=47FDC1&text_color=315BE6&bg_color=0d1117" alt="Guilherme Pinheiro github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeLVL&layout=compact&hide_border=true&title_color=47FDC1&text_color=47FDC1&bg_color=0d1117" />
 </div>
 <div align="center"> 
