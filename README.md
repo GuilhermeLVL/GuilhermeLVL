@@ -15,21 +15,33 @@
  
  # Main skills:
 <div style="display: inline_block"><br>
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="" height="30" width="50" src="https://logos-marques.com/wp-content/uploads/2021/03/GitHub-Embleme.png">
-  <img align="center" alt="" height="30" width="30" src="https://3.bp.blogspot.com/-xhNpNJJyQhk/XIe4GY78RQI/AAAAAAAAItc/ouueFUj2Hqo5dntmnKqEaBJR4KQ4Q2K3ACK4BGAYYCw/s1600/logo%2Bgit%2Bicon.png">
-  <img align="center" alt="" height="30" width="40" src="https://camo.githubusercontent.com/587d0f411b348ee05a53c7685b59142e0705ff8d06181d09008438c1a92f1a96/68747470733a2f2f7261776769742e636f6d2f736173732f736173732d736974652f6d61696e2f736f757263652f6173736574732f696d672f6c6f676f732f6c6f676f2e737667"/>
-  <img align="center" alt=""  src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  
+<img align="center" alt=""  src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  
+<img align="center" alt=""  src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+
+<img align="center" alt=""  src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+
+<img align="center" alt=""  src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+
+<img align="center" alt=""  src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+
+<img align="center" alt=""  src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+       
+<img align="center" alt=""  src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+ 
  
   </div>
 
 # Studying in this moment:
 <div style="display: inline_block"><br>
+  
 <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/> 
+  
 <img align="center" alt="" height="30" width="30" src="https://avatars.githubusercontent.com/u/70142?s=200&v=4"/>
- <img align="center" alt="" height="30" width="40" src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg"/>
+  
+ <img align="center" alt="" height="30" width="40" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
+  
   <img align="center" alt="" height="30" width="30" src="https://apliint.com/wp-content/uploads/2020/12/267_Python_logo-512-400x400.png"/>
   
  </div>
