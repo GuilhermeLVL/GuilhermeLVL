@@ -36,13 +36,13 @@
 # Studying in this moment:
 <div style="display: inline_block"><br>
   
-<img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/> 
+<img align="center" alt="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/> 
   
-<img align="center" alt="" height="30" width="30" src="https://avatars.githubusercontent.com/u/70142?s=200&v=4"/>
+<img align="center" alt=""  src="https://avatars.githubusercontent.com/u/70142?s=200&v=4"/>
   
- <img align="center" alt="" height="30" width="40" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
+ <img align="center" alt=""  src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
   
-  <img align="center" alt="" height="30" width="30" src="https://apliint.com/wp-content/uploads/2020/12/267_Python_logo-512-400x400.png"/>
+  <img align="center" alt=""  src="https://apliint.com/wp-content/uploads/2020/12/267_Python_logo-512-400x400.png"/>
   
  </div>
 
