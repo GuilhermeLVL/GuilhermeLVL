@@ -26,7 +26,7 @@
 
 <img align="center" alt=""  src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
-<img align="center" alt=""  src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img align="center" alt=""  src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
        
 <img align="center" alt=""  src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
  
@@ -36,13 +36,13 @@
 # Studying in this moment:
 <div style="display: inline_block"><br>
   
-<img align="center" alt="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/> 
+<img align="center" alt="" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> 
   
-<img align="center" alt=""  src="https://avatars.githubusercontent.com/u/70142?s=200&v=4"/>
+<img align="center" alt=""  src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
   
  <img align="center" alt=""  src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
   
-  <img align="center" alt=""  src="https://apliint.com/wp-content/uploads/2020/12/267_Python_logo-512-400x400.png"/>
+  <img align="center" alt=""  src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
   
  </div>
 
