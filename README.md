@@ -42,6 +42,9 @@
 
 # Studying in this moment:
 <div style="display: inline_block"><br>
+
+
+<img align="center" alt="" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
   
 <img align="center" alt="" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> 
   
