@@ -36,10 +36,9 @@
 <img align="center" alt=""  src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
 
- 
- 
   </div>
-<div style="display: inline_block"><br>
+  
+<div align="center"  style="display: inline_block"><br>
 
  </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=315BE6&height=120&section=footer"/>
