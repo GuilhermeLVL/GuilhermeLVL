@@ -39,12 +39,8 @@
  
  
   </div>
-
-# Studying in this moment:
 <div style="display: inline_block"><br>
 
-  
  </div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=315BE6&height=120&section=footer"/>
 
