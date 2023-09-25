@@ -13,6 +13,7 @@
 </div>
 <div align="center"> 
 
+  <a href="https://youtu.be/_po9Kr0zoJ4?si=U1epLAidpqhZ3Ld-" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 <a href="https://www.linkedin.com/in/guilhermelvl/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
  
@@ -34,6 +35,8 @@
 <img align="center" alt=""  src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
 <img align="center" alt=""  src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+
+<img align="center" alt=""  src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
 
   </div>
