@@ -1,5 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=315BE6&height=120&section=header"/>
 
+<h1 align="center">Guilherme Pinheiro 📧</h1>
+<p align="center">Guilherme100.0@hotmail.com</p>
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuilhermeLVL&show_icons=true&count_private=true&hide_border=true&title_color=315BE6&icon_color=315BE6&text_color=EFEFEF&bg_color=0d1117" alt="Guilherme Pinheiro github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeLVL&layout=compact&hide_border=true&title_color=315BE6&text_color=EFEFEF&bg_color=0d1117" />
@@ -10,48 +13,34 @@
   <a href="https://www.linkedin.com/in/guilhermelvl/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
 
-# Perfil Profissional
-Desenvolvedor Full-Stack com foco em Front-End e em transição para Python e Machine Learning. Experiência sólida em JavaScript, React, Node.js e C#, com ênfase na criação de interfaces responsivas e otimização de processos. Atualmente, busco aplicar minhas habilidades em Python e Machine Learning para projetos de automação e análise de dados, utilizando Pandas, NumPy e Scikit-learn.
+# Professional Profile
+Full-Stack Developer focused on Front-End and transitioning to Python and Machine Learning. Solid experience in JavaScript, React, Node.js, and C#, with an emphasis on creating responsive interfaces and optimizing processes. Currently, I seek to apply my skills in Python and Machine Learning to automation and data analysis projects, using Pandas, NumPy, and Scikit-learn.
 
-# Habilidades e Tecnologias
-Linguagens: JavaScript (ES6+), Python, C# (ASP.NET), SQL  
-Frameworks & Ferramentas: React, Node.js, Bootstrap, jQuery, .NET Framework 4.8  
-Machine Learning: Pandas, NumPy, Scikit-learn (em prática)  
-Metodologias: Ágil (Scrum/Kanban), Git, Docker  
-Línguas: Inglês (Intermediário), Francês (Iniciante), Português (Nativo)  
+# Skills and Technologies
+Languages: JavaScript (ES6+), Python, C# (ASP.NET), SQL  
+Frameworks & Tools: React, Node.js, Bootstrap, jQuery, .NET Framework 4.8  
+Machine Learning: Pandas, NumPy, Scikit-learn (in practice)  
+Methodologies: Agile (Scrum/Kanban), Git, Docker  
+Languages: English (Intermediate), French (Beginner), Portuguese (Native)  
 
-# Experiência Profissional
-**Desenvolvedor Front-End | Osas**  
-Belo Horizonte, MG | Out 2023 - Presente  
-- Desenvolvi interfaces responsivas utilizando JavaScript, HTML5, CSS (Bootstrap), e React, garantindo ótima experiência de usuário em dispositivos diversos.
-- Automatizei processos internos com C# (ASP.NET), otimizando fluxo de dados e integração de APIs externas.
-- Colaborei com equipes de UX/UI e Produto para criar soluções B2B/B2C, focando em acessibilidade e performance.
+# Professional Experience
+**Front-End Developer | Osas**  
+Belo Horizonte, MG | Oct 2023 - Present  
+- Developed responsive interfaces using JavaScript, HTML5, CSS (Bootstrap), and React, ensuring a great user experience across various devices.
+- Automated internal processes with C# (ASP.NET), optimizing data flow and integration of external APIs.
+- Collaborated with UX/UI and Product teams to create B2B/B2C solutions, focusing on accessibility and performance.
 
-**Desenvolvedor Full-Stack | Projetos Pessoais e Freelance**  
-Remoto | 2021 - Presente  
-- Criei landing pages dinâmicas e responsivas com React e TypeScript.
-- Desenvolvi integrações com APIs RESTful, garantindo escalabilidade e segurança nas aplicações.
-- Transição para Python e Machine Learning
+**Full-Stack Developer | Personal Projects and Freelance**  
+Remote | 2021 - Present  
+- Created dynamic and responsive landing pages with React and TypeScript.
+- Developed integrations with RESTful APIs, ensuring scalability and security in applications.
+- Transition to Python and Machine Learning
 
-Desenvolvo projetos práticos utilizando Python, Pandas, NumPy, e Scikit-learn, com foco em análise de dados e modelos preditivos.
+Develop practical projects using Python, Pandas, NumPy, and Scikit-learn, focusing on data analysis and predictive models.
 
-# Main skills:
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img align="center" alt="" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="center" alt="" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img align="center" alt="" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  <img align="center" alt="" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img align="center" alt="" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
-  <img align="center" alt="" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img align="center" alt="" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img align="center" alt="" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</div>
+# Interests
+Software Development and Machine Learning: Applying emerging technologies to practical solutions.  
+Continuous Learning: Always updating myself on Python and Machine Learning.
 
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img align="center" alt="" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
-  <img align="center" alt="" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=315BE6&height=120&section=footer"/>
