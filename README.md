@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=315BE6&height=120&section=header"/>
 
-<h1 align="center">Guilherme Pinheiro 📧</h1>
-<p align="center">Guilherme100.0@hotmail.com</p>
+<h1 align="center">Guilherme Pinheiro</h1>
+<p align="center">📧: Guilherme100.0@hotmail.com</p>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuilhermeLVL&show_icons=true&count_private=true&hide_border=true&title_color=315BE6&icon_color=315BE6&text_color=EFEFEF&bg_color=0d1117" alt="Guilherme Pinheiro github stats" /> 
