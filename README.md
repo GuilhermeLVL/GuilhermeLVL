@@ -3,15 +3,7 @@
 <h1 align="center">Guilherme Pinheiro</h1>
 <p align="center">📧: Guilherme100.0@hotmail.com</p>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuilhermeLVL&show_icons=true&count_private=true&hide_border=true&title_color=315BE6&icon_color=315BE6&text_color=EFEFEF&bg_color=0d1117" alt="Guilherme Pinheiro github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeLVL&layout=compact&hide_border=true&title_color=315BE6&text_color=EFEFEF&bg_color=0d1117" />
-</div>
 
-<div align="center"> 
-  <a href="https://youtu.be/_po9Kr0zoJ4?si=U1epLAidpqhZ3Ld-" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/guilhermelvl/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-</div>
 
 # 👨‍💻 Professional Profile  
 Full-Stack Developer with strong expertise in **Front-End Development** and practical experience in **Python, Machine Learning, and Generative AI**. Skilled in building scalable applications with React, Node.js, and C#, always focusing on **performance, accessibility, and user experience**.  
@@ -51,5 +43,15 @@ Remote | 2021 – Present
 - **Continuous Learning**: Expanding knowledge in Python, Data Science, and Large Language Models.  
 
 ---
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuilhermeLVL&show_icons=true&count_private=true&hide_border=true&title_color=315BE6&icon_color=315BE6&text_color=EFEFEF&bg_color=0d1117" alt="Guilherme Pinheiro github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeLVL&layout=compact&hide_border=true&title_color=315BE6&text_color=EFEFEF&bg_color=0d1117" />
+</div>
+
+<div align="center"> 
+  <a href="https://youtu.be/_po9Kr0zoJ4?si=U1epLAidpqhZ3Ld-" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/guilhermelvl/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=315BE6&height=120&section=footer"/>
