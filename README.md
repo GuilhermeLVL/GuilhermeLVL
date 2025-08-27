@@ -13,34 +13,43 @@
   <a href="https://www.linkedin.com/in/guilhermelvl/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
 
-# Professional Profile
-Full-Stack Developer focused on Front-End and transitioning to Python and Machine Learning. Solid experience in JavaScript, React, Node.js, and C#, with an emphasis on creating responsive interfaces and optimizing processes. Currently, I seek to apply my skills in Python and Machine Learning to automation and data analysis projects, using Pandas, NumPy, and Scikit-learn.
+# 👨‍💻 Professional Profile  
+Full-Stack Developer with strong expertise in **Front-End Development** and practical experience in **Python, Machine Learning, and Generative AI**. Skilled in building scalable applications with React, Node.js, and C#, always focusing on **performance, accessibility, and user experience**.  
 
-# Skills and Technologies
-Languages: JavaScript (ES6+), Python, C# (ASP.NET), SQL  
-Frameworks & Tools: React, Node.js, Bootstrap, jQuery, .NET Framework 4.8  
-Machine Learning: Pandas, NumPy, Scikit-learn (in practice)  
-Methodologies: Agile (Scrum/Kanban), Git, Docker  
-Languages: English (Intermediate), French (Beginner), Portuguese (Native)  
+Currently applying **Python, Pandas, NumPy, Scikit-learn, and LLM frameworks (LangChain, LangGraph, Groq API)** to projects involving **data analysis, automation, and predictive models**. Passionate about transforming complex data into actionable insights and developing innovative solutions.  
 
-# Professional Experience
+---
+
+# 🛠 Skills and Technologies  
+- **Languages**: JavaScript (ES6+), Python, C#, SQL  
+- **Frameworks & Tools**: React, Node.js, .NET Framework, Bootstrap, Docker, Git  
+- **Machine Learning & AI**: Pandas, NumPy, Scikit-learn, LLMs (LangChain, LangGraph, Groq API)  
+- **Databases**: MySQL, MongoDB, PostgreSQL  
+- **Methodologies**: Agile (Scrum/Kanban), CI/CD  
+- **Languages**: English (Intermediate), French (Beginner), Portuguese (Native)  
+
+---
+
+# 💼 Professional Experience  
+
 **Front-End Developer | Osas**  
-Belo Horizonte, MG | Oct 2023 - Present  
-- Developed responsive interfaces using JavaScript, HTML5, CSS (Bootstrap), and React, ensuring a great user experience across various devices.
-- Automated internal processes with C# (ASP.NET), optimizing data flow and integration of external APIs.
-- Collaborated with UX/UI and Product teams to create B2B/B2C solutions, focusing on accessibility and performance.
+Belo Horizonte, MG | Oct 2023 – Present  
+- Development of scalable and responsive applications using React, JavaScript, HTML5, and CSS.  
+- Automation of internal processes with C# and API integrations, reducing operational bottlenecks.  
+- Collaboration with UX/UI and Product teams to deliver **high-performance B2B/B2C solutions**.  
 
-**Full-Stack Developer | Personal Projects and Freelance**  
-Remote | 2021 - Present  
-- Created dynamic and responsive landing pages with React and TypeScript.
-- Developed integrations with RESTful APIs, ensuring scalability and security in applications.
-- Transition to Python and Machine Learning
+**Full-Stack Developer | Personal Projects & Freelance**  
+Remote | 2021 – Present  
+- Development of modern web applications with React, TypeScript, and RESTful APIs.  
+- Implementation of **Machine Learning projects** with Python, Pandas, NumPy, and Scikit-learn.  
+- Experimentation and delivery of **Generative AI applications**, including chat systems, ETL pipelines, and predictive models.  
 
-Develop practical projects using Python, Pandas, NumPy, and Scikit-learn, focusing on data analysis and predictive models.
+---
 
-# Interests
-Software Development and Machine Learning: Applying emerging technologies to practical solutions.  
-Continuous Learning: Always updating myself on Python and Machine Learning.
+# 🚀 Interests  
+- **Software Development & AI**: Applying Machine Learning and Generative AI to real-world problems.  
+- **Continuous Learning**: Expanding knowledge in Python, Data Science, and Large Language Models.  
 
+---
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=315BE6&height=120&section=footer"/>
