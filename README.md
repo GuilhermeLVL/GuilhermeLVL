@@ -1,61 +1,71 @@
-<!-- V3 ZERO-ASSET · nenhum arquivo para commitar, só serviços hospedados -->
+<!-- Perfil do GitHub — copiar para o repo GuilhermeLVL/GuilhermeLVL como README.md -->
+<!-- Zero assets: tudo é serviço hospedado, nada para commitar -->
+<!-- Paleta: monocromática zinc/branco, idêntica ao portfólio (remotion-video/src/theme.ts) -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0908,45:C25215,100:FF8A3D&height=210&section=header&text=Guilherme%20Pinheiro&fontColor=ECE3D6&fontSize=52&fontAlignY=40&desc=Engenheiro%20de%20IA%20%C2%B7%20Desenvolvedor%20Fullstack&descSize=18&descAlignY=62&descColor=F4E4C8&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:27272a,100:71717a&height=210&section=header&text=GuilhermeLVL&fontColor=ffffff&fontSize=54&fontAlignY=40&desc=AI%20Engineer%20%C2%B7%20Fullstack%20Developer&descSize=18&descAlignY=62&descColor=a1a1aa&animation=fadeIn"/>
 
 <div align="center">
 
-[![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1100&color=FF8A3D&center=true&vCenter=true&width=700&lines=Sistemas+multi-agente+%C2%B7+LangGraph;RAG+%C2%B7+Avalia%C3%A7%C3%A3o+%C2%B7+Privacidade;IA+cl%C3%ADnica+sob+LGPD;Vis%C3%A3o+computacional+%C2%B7+Multimodal)](https://github.com/GuilhermeLVL)
+[![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1100&color=ffffff&center=true&vCenter=true&width=760&lines=Multi-agent+systems+%C2%B7+LangGraph;RAG+%C2%B7+Evaluation+%C2%B7+Reliability;I+treat+agents+like+software;Full-stack%3A+React+%C2%B7+Node+%C2%B7+Python)](https://full-stack-ai-portfolio.vercel.app)
 
 </div>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0E0C0B?style=for-the-badge&logo=linkedin&logoColor=FF8A3D)](https://www.linkedin.com/in/guilhermelvl/)
-[![GitHub](https://img.shields.io/badge/GitHub-0E0C0B?style=for-the-badge&logo=github&logoColor=ECE3D6)](https://github.com/GuilhermeLVL)
-[![X](https://img.shields.io/badge/X-0E0C0B?style=for-the-badge&logo=x&logoColor=6FB8CE)](https://x.com/GuilhermeLVL_)
-[![Email](https://img.shields.io/badge/Email-0E0C0B?style=for-the-badge&logo=gmail&logoColor=E7B85C)](mailto:Guilherme100.0@hotmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-09090b?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://full-stack-ai-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-09090b?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/guilhermelvl/)
+[![GitHub](https://img.shields.io/badge/GitHub-09090b?style=for-the-badge&logo=github&logoColor=a1a1aa)](https://github.com/GuilhermeLVL)
+[![X](https://img.shields.io/badge/X-09090b?style=for-the-badge&logo=x&logoColor=a1a1aa)](https://x.com/GuilhermeLVL_)
+[![Email](https://img.shields.io/badge/Email-09090b?style=for-the-badge&logo=maildotru&logoColor=a1a1aa)](mailto:Guilherme100.0@hotmail.com)
 
 </div>
 
 <br/>
 
-> Construo **sistemas multi-agente** (LangGraph), pipelines de **RAG** e aplicações de **visão computacional** com foco em produção, avaliação rigorosa e privacidade. Pesquisa de mestrado em anonimização de prontuários médicos em português — onde sistemas genéricos falham e a margem de erro tem consequências reais.
+> I build systems where generative AI meets real engineering — agents that decide, pipelines that don't break, and products that actually ship.
+>
+> My work lives in the layer most demos skip: structured output, provider fallback, observability and cost control. The principle behind it — **the LLM suggests; Python decides**.
 
 <br/>
 
-### 🔥 &nbsp;Em destaque
+### Selected work
 
-| Projeto | O que é | Sinal |
+| Project | What it is | Signal |
 |:--|:--|:--|
-| **H-Q-MAS** `IA` `mestrado` | Anonimização de prontuários — 8 agentes LangGraph, NER, consenso quântico | `92% privacy recall` |
-| **Babel Play** `desktop` `agentes` | Tradução multimodal em tempo real, 100% offline, 3 agentes / 17 tools | `292 testes` `WCAG AA` |
-| **Remarketing Agent** `IA` `B2B` | Reativação de leads com 12 guardrails auditáveis · RAG FAISS | `LLM-as-judge` |
-| **Marketing AI** `agentes` `fullstack` | Pipeline LangGraph 5 estágios · RAG híbrido pgvector + FTS | `5× LLM` `multi-provider` |
+| **H-Q-MAS** `research` `healthcare AI` | Multi-agent anonymization of Portuguese clinical records, LGPD-aligned — deciding entity by entity between privacy and clinical utility | `Master's · restricted` |
+| **Babel Play** `full-stack` `agents` | Live audio → transcription → translation → spaced repetition (FSRS-5), with a free-first multi-provider architecture | `6+ providers` `100% offline` |
+| **Marketing AI** `agents` `RAG` | LangGraph pipeline with a reflection loop, auditable scoring and a RAG that cites its sources | `5-node graph` `0 API keys` |
+
+<div align="center">
+
+**[→ Architecture, trade-offs and honest metrics at full-stack-ai-portfolio.vercel.app](https://full-stack-ai-portfolio.vercel.app)**
+
+</div>
 
 <br/>
 
-### 🔥 &nbsp;Stack
+### Stack
 
-![Python](https://img.shields.io/badge/Python-0E0C0B?style=for-the-badge&logo=python&logoColor=FF8A3D)
-![LangGraph](https://img.shields.io/badge/LangGraph-0E0C0B?style=for-the-badge&logo=langchain&logoColor=FF8A3D)
-![FastAPI](https://img.shields.io/badge/FastAPI-0E0C0B?style=for-the-badge&logo=fastapi&logoColor=E7B85C)
-![PyTorch](https://img.shields.io/badge/PyTorch-0E0C0B?style=for-the-badge&logo=pytorch&logoColor=FF8A3D)
-![React](https://img.shields.io/badge/React-0E0C0B?style=for-the-badge&logo=react&logoColor=6FB8CE)
-![TypeScript](https://img.shields.io/badge/TypeScript-0E0C0B?style=for-the-badge&logo=typescript&logoColor=6FB8CE)
-![Electron](https://img.shields.io/badge/Electron-0E0C0B?style=for-the-badge&logo=electron&logoColor=6FB8CE)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0E0C0B?style=for-the-badge&logo=postgresql&logoColor=E7B85C)
-![Docker](https://img.shields.io/badge/Docker-0E0C0B?style=for-the-badge&logo=docker&logoColor=FF8A3D)
-![Ollama](https://img.shields.io/badge/Ollama-0E0C0B?style=for-the-badge&logo=ollama&logoColor=ECE3D6)
+![Python](https://img.shields.io/badge/Python-09090b?style=for-the-badge&logo=python&logoColor=ffffff)
+![LangGraph](https://img.shields.io/badge/LangGraph-09090b?style=for-the-badge&logo=langchain&logoColor=ffffff)
+![LangChain](https://img.shields.io/badge/LangChain-09090b?style=for-the-badge&logo=langchain&logoColor=a1a1aa)
+![FastAPI](https://img.shields.io/badge/FastAPI-09090b?style=for-the-badge&logo=fastapi&logoColor=a1a1aa)
+![React](https://img.shields.io/badge/React-09090b?style=for-the-badge&logo=react&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/TypeScript-09090b?style=for-the-badge&logo=typescript&logoColor=ffffff)
+![Node.js](https://img.shields.io/badge/Node.js-09090b?style=for-the-badge&logo=nodedotjs&logoColor=a1a1aa)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-09090b?style=for-the-badge&logo=postgresql&logoColor=a1a1aa)
+![Docker](https://img.shields.io/badge/Docker-09090b?style=for-the-badge&logo=docker&logoColor=a1a1aa)
+![Ollama](https://img.shields.io/badge/Ollama-09090b?style=for-the-badge&logo=ollama&logoColor=ffffff)
 
 <br/>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=GuilhermeLVL&show_icons=true&hide_border=true&count_private=true&title_color=FF8A3D&icon_color=E7B85C&text_color=A1947F&bg_color=0E0C0B"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeLVL&layout=compact&hide_border=true&langs_count=6&title_color=FF8A3D&text_color=A1947F&bg_color=0E0C0B"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=GuilhermeLVL&show_icons=true&hide_border=true&count_private=true&title_color=ffffff&icon_color=a1a1aa&text_color=a1a1aa&bg_color=09090b"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeLVL&layout=compact&hide_border=true&langs_count=6&title_color=ffffff&text_color=a1a1aa&bg_color=09090b"/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeLVL&bg_color=0E0C0B&color=ECE3D6&line=FF8A3D&point=E7B85C&area=true&area_color=FF8A3D&hide_border=true&radius=8" alt=""/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeLVL&bg_color=09090b&color=ffffff&line=ffffff&point=a1a1aa&area=true&area_color=27272a&hide_border=true&radius=8" alt=""/>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8A3D,55:C25215,100:0B0908&height=130&section=footer&text=Don't%20you%20dare%20go%20hollow&fontColor=ECE3D6&fontSize=16&fontAlignY=72"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:71717a,50:27272a,100:000000&height=130&section=footer&text=Don't%20you%20dare%20go%20hollow&fontColor=a1a1aa&fontSize=16&fontAlignY=72"/>
