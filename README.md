@@ -22,11 +22,11 @@
 <tr>
 <td width="58%" valign="middle">
 
-> I build systems where generative AI meets real engineering — agents that decide, pipelines that don't break, and products that actually ship.
+> I build systems where generative AI meets real engineering agents that decide, pipelines that don't break, and products that actually ship.
 >
 > My work lives in the layer most demos skip: structured output, provider fallback, observability and cost control.
 >
-> The principle behind it — **the LLM suggests; Python decides.**
+> The principle behind it **the LLM suggests; Python decides.**
 
 </td>
 <td width="42%" align="center" valign="middle">
@@ -35,7 +35,7 @@
   <img src="https://full-stack-ai-portfolio.vercel.app/hero-3d.gif" width="300" alt="Interactive 3D scene from the portfolio"/>
 </a>
 
-<sub><b><a href="https://full-stack-ai-portfolio.vercel.app">full-stack-ai-portfolio.vercel.app</a></b><br/>real-time WebGL — click to morph</sub>
+<sub><b><a href="https://full-stack-ai-portfolio.vercel.app">full-stack-ai-portfolio.vercel.app</a></b><br/>real-time WebGL click to morph</sub>
 
 </td>
 </tr>
@@ -47,7 +47,7 @@
 
 | Project | What it is | Signal |
 |:--|:--|:--|
-| **H-Q-MAS** `research` `healthcare AI` | Multi-agent anonymization of Portuguese clinical records, LGPD-aligned — deciding entity by entity between privacy and clinical utility | `Master's · restricted` |
+| **H-Q-MAS** `research` `healthcare AI` | Multi-agent anonymization of Portuguese clinical records, LGPD-aligned deciding entity by entity between privacy and clinical utility | `Master's · restricted` |
 | **Babel Play** `full-stack` `agents` | Live audio → transcription → translation → spaced repetition (FSRS-5), with a free-first multi-provider architecture | `6+ providers` `100% offline` |
 | **Marketing AI** `agents` `RAG` | LangGraph pipeline with a reflection loop, auditable scoring and a RAG that cites its sources | `5-node graph` `0 API keys` |
 
